@@ -19,12 +19,12 @@ function App() {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <span><h2>Trybe Todo List</h2></span>
+          <span><h2>Trybe Todo-List</h2></span>
           <Switch>
             <TaskProvider>
               <Route exact={true} path="/">
-                  <ItemAdd />
-                  <ItemList />
+                <ItemAdd />
+                <ItemList />
               </Route>
               <Route exact={true} path="/debug">
                 <TaskReset />
