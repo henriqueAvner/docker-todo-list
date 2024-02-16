@@ -8,5 +8,5 @@
   - Dentro de todo-app, nas pastas back-end, front-end e tests, os arquivos referentes a Dockerfile;
   - Na pasta raiz, o arquivo docker-compose.yml.
 
-## :exclamation:ATENÇÃO:exclamation:
+## :exclamation:ATENÇÃO:exclamation: 
  - Todos os outros arquivos que não foram mencionados anteriormente, foram criados pela Trybe :white_check_mark:
