@@ -9,4 +9,4 @@
   - Na pasta raiz, o arquivo docker-compose.yml.
 
 ## :exclamation:ATENÇÃO:exclamation:
--> Todos os outros arquivos que não foram mencionados anteriormente, foram criados pela Trybe.
+ - Todos os outros arquivos que não foram mencionados anteriormente, foram criados pela Trybe:white_check_mark:
